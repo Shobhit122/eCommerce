@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/fav_fill"
+        android:contentDescription="Cart"
+        android:icon="@drawable/favorite_24_red"
+        app:showAsAction="ifRoom"
+        android:title="Fav_Filled"
+        android:visible="false"/>
+    <item
+        android:id="@+id/fav_emp"
+        android:contentDescription="Cart"
+        android:icon="@drawable/favorite_24_white"
+        app:showAsAction="ifRoom"
+        android:title="Fav_Empty"
+        android:visible="false"/>
+
+    <item
+        android:id="@+id/search"
+        android:contentDescription="Search"
+        android:icon="?android:attr/actionModeWebSearchDrawable"
+        android:title="Search"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/cart"
+        android:contentDescription="Cart"
+        android:icon="@drawable/baseline_shopping_cart_24"
+        app:showAsAction="ifRoom"
+        android:title="Cart" />
+
+
+
+</menu>

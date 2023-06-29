@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "229811196993",
+    "project_id": "ecommerce-5aa25",
+    "storage_bucket": "ecommerce-5aa25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229811196993:android:04dae97a6be25db43562c0",
+        "android_client_info": {
+          "package_name": "molu.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229811196993-sjsqoo9fjvovfs3fvi7opeihp3be92d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtyWBYDbsJVNCb7KSjqzsYGT2KPjbkJrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229811196993-sjsqoo9fjvovfs3fvi7opeihp3be92d8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
